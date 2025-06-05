@@ -1,0 +1,323 @@
+12:42.716000-993,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '505c8fb4-4283-445e-8379-32b93f4f498b'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.716003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'b00cbb4c-bc89-4e10-8c81-7a0cd80486e6'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.716006-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '700315c0-f19b-4f16-b369-4cc474b0c03c'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.717000-992,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '7ad25c31-c205-45b2-afb7-8bc17a85c26f'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.717003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '0886e714-175b-4ce9-9c97-c95099fde7eb'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.718000-995,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '283b4f1e-7932-4c86-90bf-1bb5d149248c'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.718003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '4e411bfd-3c9a-4d1f-9e07-d238e71e59b0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.718006-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '68019571-7e38-4763-b0fb-f983752b0e66'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.719001-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'f13b7e03-3837-4d14-8926-4ae7a7eb9740'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.719004-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '7230a74e-fd1f-462c-a122-da60a36da13a'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.719007-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '4055552b-83d7-4657-b011-f9fc5ab32b15'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.720002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'c1bf0341-7ba0-4b6b-a0af-86d632c4ee66'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.720005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'af7413db-a217-4da5-8337-6e89b7f6de15'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.720008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'f220685a-88c9-4358-b9b7-f6ece905f380'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.721002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'd750dd5f-1329-493c-a187-cd1754242e6e'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.721005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '86cf57c5-88a6-48c6-a03a-cdb2dbc937fe'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.721008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '33ee6a68-d9f9-4b96-bb0d-8b4b72d93799'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.722002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '44a8fb55-af2a-43aa-a9cf-a83d99a5f7de'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.722005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '943dd3e6-3663-4770-8340-87e42fa7b62e'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.722008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '4a514b4d-34a3-4fe4-b8d2-eabc54b77862'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.723002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'd75ab0c9-4350-49c8-870b-a0e2771a68d8'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.723005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'b8c5bc17-0ce8-4c76-98a1-d352b7b2ebd2'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.723008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '23ae0976-c460-4ad5-82ec-e5ceb8759f63'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.724002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'e37aa075-143b-44e9-a2e2-77b3e0f76a77'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.724005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'ca0dad62-d74e-47a6-9d56-c2b0ad03eaa2'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.725002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'cb98353a-9d34-4150-baf3-c0c0c87eb3c4'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.725005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '90080b3b-6152-4070-81f2-10ec597b5b8c'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.726000-993,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'f0f8b5fc-7a00-4ac3-9732-77fb7fd3d171'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.726003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'e304acc4-064d-4a9e-a382-7e58c12bab06'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.726006-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'e135e53e-40fc-4012-b21f-06365a3afe36'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.727000-992,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '91d3cf9d-0047-4acd-b189-aeb8cf66c2ba'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.728000-999,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,ClientID=993,Interface=0459eaa0-589f-4a6d-9eed-c1a7461c8e3f,IName=IClusterRegistry,Method=6,CallID=1440349053,MName=getIBParams2,DstClientID=1000
+12:42.728002-1,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,ClientID=993,Interface=df008250-c15b-4f53-956c-773eed3c2cb7,IName=IRMngr,Method=0,CallID=1440349054,MName=getRMngrExtensionStub1,DstClientID=1000
+12:42.729000-997,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,ClientID=993,Interface=90b77326-8e4a-4195-b980-d758277d1f03,IName=ISeanceContextStorage,Method=5,CallID=1440349055,MName=startSeance,DstClientID=1000
+12:42.729001-0,CLSTR,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,Event=Successful service call,RmngrURL=tcp://1csrv:1541,ServiceName=SessionDataService,ExtData=BackgroundJob.ScheduledJob.ДиспетчерЗаданий,SessionID=1fc26e7a-bd08-47f6-85c9-4c4381cfc8e1,TargetCall=0
+12:42.729003-1,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,ClientID=993,Interface=12af46e1-4f3e-4446-a753-519e54d55f48,IName=IObjectLocksStor,Method=0,CallID=1440349056,MName=lockObject,DstClientID=1000
+12:42.730000-996,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=df008250-c15b-4f53-956c-773eed3c2cb7,IName=IRMngr,Method=1,CallID=1440349057,MName=getRMngrExtensionStub2,DstClientID=1000
+12:42.730002-1,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=2ebdaa8c-4a75-48f7-94bf-8206623aa9bb,IName=IClusterLogMngr,Method=10,CallID=1440349058,MName=setSessionData,DstClientID=1000
+12:42.731000-996,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '4c684f11-7849-400d-8187-d0b1342d5e7d'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.731003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '4c684f11-7849-400d-8187-d0b1342d5e7d.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.732000-996,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=12af46e1-4f3e-4446-a753-519e54d55f48,IName=IObjectLocksStor,Method=0,CallID=1440349059,MName=lockObject,DstClientID=1000
+12:42.733000-997,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._RestructDataInt
+FROM _ExtensionsRestruct T1
+WHERE (T1._ExtDataID IN ('g\\323I\\217\\036\\213\\304K\\272\\344pC\\020/;\\317'::bytea)) AND T1._RestructDataType = CAST(0 AS NUMERIC)",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.733001-1000,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT RestructDataInt FROM ExtensionsRestruct WHERE ExtDataID IN (0x67d3498f1e8bc44bbae47043102f3bcf) AND RestructDataType=0',Rows=1
+12:42.734000-996,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._RestructDataInt
+FROM _ExtensionsRestructNGS T1
+WHERE (T1._ExtDataID IN ('g\\323I\\217\\036\\213\\304K\\272\\344pC\\020/;\\317'::bytea)) AND T1._RestructDataType = CAST(0 AS NUMERIC)",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.734001-999,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT RestructDataInt FROM ExtensionsRestructNGS WHERE ExtDataID IN (0x67d3498f1e8bc44bbae47043102f3bcf) AND RestructDataType=0',Rows=1
+12:42.734003-1,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl=schema set global;,Rows=0
+12:42.735000-994,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._IDRRef,
+T1._ExtensionOrder,
+T1._ExtName,
+T1._UpdateTime,
+T1._ExtensionUsePurpose,
+T1._ExtensionScope,
+T1._ExtensionZippedInfo,
+T1._MasterNode,
+T1._UsedInDistributedInfoBase,
+BINROWVER(T1._Version)
+FROM _ExtensionsInfo T1
+ORDER BY CASE WHEN SUBSTR((T1._MasterNode)::mvarchar,(CAST(1 AS NUMERIC))::int,(CAST(34 AS NUMERIC))::int) = '0:00000000000000000000000000000000'::mvarchar THEN TRUE ELSE FALSE END, T1._ExtensionUsePurpose, T1._ExtensionScope, T1._ExtensionOrder",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.736000-1996,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT ID,ExtensionOrder,ExtName,UpdateTime,ExtensionUsePurpose,ExtensionScope,ExtensionZippedInfo,MasterNode,UsedInDistributedInfoBase,Version FROM ExtensionsInfo ORDER BY SUBSTRING(MasterNode, 1, 34) = "0:00000000000000000000000000000000",ExtensionUsePurpose,ExtensionScope,ExtensionOrder',Rows=1
+12:42.736004-1,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._RestructDataInt
+FROM _ExtensionsRestruct T1
+WHERE (T1._ExtDataID IN ('g\\323I\\217\\036\\213\\304K\\272\\344pC\\020/;\\317'::bytea)) AND T1._RestructDataType = CAST(0 AS NUMERIC)",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.736005-4,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT RestructDataInt FROM ExtensionsRestruct WHERE ExtDataID IN (0x67d3498f1e8bc44bbae47043102f3bcf) AND RestructDataType=0',Rows=1
+12:42.737000-992,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._RestructData
+FROM _ExtensionsRestruct T1
+WHERE (T1._ExtDataID IN ('SE\\250\\361${\\366@\\202A\\257s\\272k\\227`'::bytea)) AND T1._RestructDataType = CAST(0 AS NUMERIC)",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.737001-995,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT RestructData FROM ExtensionsRestruct WHERE ExtDataID IN (0x5345a8f1247bf6408241af73ba6b9760) AND RestructDataType=0',Rows=1
+12:42.737005-1,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T1._ExtDataID
+FROM _ExtensionsRestruct T1
+WHERE T1._RestructDataType = CAST(0 AS NUMERIC)',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.737006-4,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT ExtDataID FROM ExtensionsRestruct WHERE RestructDataType=0',Rows=1
+12:42.737008-1,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl=schema get local,Rows=0
+12:42.737011-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'b33d7e66-4baf-45c5-b853-01aca93181b6'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.738002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'b08fb144-3508-45fa-a52f-1cf3c523e640'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.738005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '1764d165-159a-4135-bae0-e72e5d4c8bc6'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.738008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '7d8100e1-e00e-43bb-8205-0a2503440895'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.739002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'ae3876e2-bd06-415b-9d9a-b77d787be09e'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.739005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '715ccbc0-0219-4144-8200-1edc7bff4cfb'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.739008-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '2f68001c-cbb0-426f-8ef0-745b4ba0b7f0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.740002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '49a87c3d-4e86-4e14-8ce7-4c2c9a76cf71'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.740005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '86c86ea2-d14e-4443-b36c-c1c17c4f768a'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.741000-993,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '0f9a63d6-a5d8-4f5c-8333-ab61b3ebe10a'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.741003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'cfe8f458-47ed-460e-9908-6d85423cb60b'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.743000-1993,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='drop table if exists tt1 cascade;create temporary table tt1 (_C_1 bytea, _C_2 mvarchar(100), _C_3 mvarchar(100), _C_4 mvarchar(100), _C_5 mvarchar(100), _C_6 mvarchar(100), _C_7 mvarchar(2), _C_8 numeric(5, 0), _C_9 boolean, _TTC_1 bytea, SDBL_IDENTITY serial4 ) without oids ',RowsAffected=0,Result=PGRES_COMMAND_OK
+12:42.743001-1995,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Func=lookupTmpTable
+12:42.744000-997,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='INSERT INTO pg_temp.tt1 (_C_1, _C_2, _C_3, _C_4, _C_5, _C_6, _C_7, _C_8, _C_9, _TTC_1) SELECT
+T2._ModelID,
+T2._Acoustic,
+T2._AcousticRU,
+T2._LanguageModel,
+T2._LanguageModelRU,
+T2._Version,
+T2._Language,
+T2._SampleRate,
+TRUE,
+T1._IDRRef
+FROM _STTModelsDesc T1
+LEFT OUTER JOIN _STTModels T2
+ON T1._ModelRRef = T2._IDRRef
+WHERE T2._ModelCompatibility = CAST(80323 AS NUMERIC)',RowsAffected=0,Result=PGRES_COMMAND_OK
+12:42.744003-1,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T3._C_1 AS ModelID_,
+T3._C_2 AS Acoustic_,
+T3._C_3 AS AcousticRU_,
+T3._C_4 AS LanguageModel_,
+T3._C_5 AS LanguageModelRU_,
+T3._C_6 AS Version_,
+T3._C_7 AS Language_,
+T3._C_8 AS SampleRate_,
+T3._C_9 AS Owned_,
+T3.SDBL_IDENTITY AS SDBL_IDENTITY
+FROM pg_temp.tt1 T3',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.745000-995,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T4._Language,
+T4._Description,
+T5.SDBL_IDENTITY AS SDBL_IDENTITY
+FROM _STTModelsDesc_Acoustic T4
+INNER JOIN pg_temp.tt1 T5
+ON T5._TTC_1 = T4._STTModelsDesc_IDRRef
+ORDER BY 3 ASC',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.745003-1,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T6._Language,
+T6._Description,
+T7.SDBL_IDENTITY AS SDBL_IDENTITY
+FROM _STTModelsDesc_LangModel T6
+INNER JOIN pg_temp.tt1 T7
+ON T7._TTC_1 = T6._STTModelsDesc_IDRRef
+ORDER BY 3 ASC',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.745006-1,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T8._Language,
+T8._Description,
+T9.SDBL_IDENTITY AS SDBL_IDENTITY
+FROM _STTModelsDesc_Descr T8
+INNER JOIN pg_temp.tt1 T9
+ON T9._TTC_1 = T8._STTModelsDesc_IDRRef
+ORDER BY 3 ASC',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.746000-993,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT FASTTRUNCATE ('pg_temp.tt1')",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.746001-4996,SDBL,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Func=HoldConnection
+12:42.746002-4998,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT Model.(ModelID, Acoustic, AcousticRU, LanguageModel, LanguageModelRU, Version, Language, SampleRate), Acoustic.(Language, Description), LangModel.(Language, Description), Descr.(Language, Description), true AS Owned FROM STTModelsDesc WHERE Model.ModelCompatibility=80323',Rows=1
+12:42.747000-995,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T1._CopyId,
+T1._CopyName,
+T1._UseIntAccelerator,
+T1._ReplType,
+T1._DbType,
+T1._DbServer,
+T1._DbName,
+T1._DbUser,
+T1._DbPassword,
+T1._CreateDb,
+T1._Version
+FROM _DbCopies T1',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.747001-998,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT
+CopyId,
+CopyName,
+UseIntAccelerator,
+ReplType,
+DbType,
+DbServer,
+DbName,
+DbUser,
+DbPassword,
+CreateDb,
+Version
+FROM DbCopies',Rows=1
+12:42.747006-1,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT
+T2._CopyId,
+T2._TableName,
+T2._TableState,
+T1._ReplType
+FROM _DbCopies T1
+INNER JOIN _DbCopiesTablesStates T2
+ON T1._CopyId = T2._CopyId',RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.747007-4,SDBL,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT
+DbCopiesTablesStates.CopyId,
+TableName,
+TableState,
+DbCopies.ReplType
+FROM DbCopies INNER JOIN DbCopiesTablesStates ON DbCopies.CopyId = DbCopiesTablesStates.CopyId',Rows=1
+12:42.747008-6,DBCOPIES,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,Func=initStatesList,StatesListCopyCount=0,StatesListCopyEqualContainers=1
+12:42.748000-991,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=df008250-c15b-4f53-956c-773eed3c2cb7,IName=IRMngr,Method=1,CallID=1440349060,MName=getRMngrExtensionStub2,DstClientID=1000
+12:42.748002-1,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=294bc708-df21-4fcf-a83f-e741391ac9cf,IName=IDbCopiesTimeService,Method=0,CallID=1440349061,MName=init,DstClientID=1000
+12:42.749002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Files WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'dbcopiesparams'::mvarchar",RowsAffected=0,Result=PGRES_TUPLES_OK
+12:42.749004-1,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=df008250-c15b-4f53-956c-773eed3c2cb7,IName=IRMngr,Method=1,CallID=1440349062,MName=getRMngrExtensionStub2,DstClientID=1000
+12:42.750000-995,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=671daf7b-523e-448a-821f-5f64794b9fbf,IName=IDbCopiesService,Method=8,CallID=1440349063,MName=initConnection,DstClientID=1000
+12:42.750003-1,SCALL,0,level=INFO,process=rphost,OSThread=3178,ClientID=982,Interface=64016dc5-c439-49fa-8a71-c3cb708e243b,IName=IClusterState,Method=21,CallID=1440349065,MName=addConnection,DstClientID=988
+12:42.750004-3,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,ClientID=993,Interface=671daf7b-523e-448a-821f-5f64794b9fbf,IName=IDbCopiesService,Method=2,CallID=1440349064,MName=onCreateTransactionLog,DstClientID=1000
+12:42.751000-995,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,ClientID=993,Interface=671daf7b-523e-448a-821f-5f64794b9fbf,IName=IDbCopiesService,Method=4,CallID=1440349066,MName=onRollbackTransactionLog,DstClientID=1000
+12:42.751003-0,SDBL,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=1,Func=BeginTransaction
+12:42.751005-1,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=1,dbpid=6559,Sql=BEGIN TRANSACTION,RowsAffected=0,Result=PGRES_COMMAND_OK
+12:42.751007-1,SCALL,5,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,ClientID=993,Interface=7931ae5c-5df1-463c-a53a-8e62bf74d068,IName=IExtNotify,Method=6,CallID=1440349067,MName=onBeginTransaction,DstClientID=1000
+12:42.752002-1,DBPOSTGRS,7,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=1,dbpid=6559,Sql="UPDATE _ScheduledJobs877 SET _RestartAttemptNumber = CAST(0 AS NUMERIC), _State = CAST(1 AS NUMERIC), _StartTime = '2025-06-05 12:12:42'::timestamp, _FinishTime = '2025-06-05 12:12:32'::timestamp
+WHERE _ScheduledJobs877._ID = '\\272\\213\\312l>\\312\\363\\376I\\302\\260\\362\\024Jhv'::bytea",RowsAffected=1,Result=PGRES_COMMAND_OK
+12:42.752003-995,SDBL,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=1,Sdbl='UPDATE ScheduledJobs877 SET RestartAttemptNumber = 0, State = 1, StartTime = DATETIME(2025,6,5,12,12,42), FinishTime = DATETIME(2025,6,5,12,12,32) WHERE ID = 0xba8bca6c3ecaf3fe49c2b0f2144a6876',Rows=1
+12:42.753000-996,DBPOSTGRS,5,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=1,dbpid=6559,Sql=COMMIT,RowsAffected=0,Result=PGRES_COMMAND_OK
+12:42.753001-1999,SDBL,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Func=Transaction,Func=CommitTransaction
+12:42.753003-1,SCALL,4,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,ClientID=993,Interface=7931ae5c-5df1-463c-a53a-8e62bf74d068,IName=IExtNotify,Method=7,CallID=1440349068,MName=onCommitTransaction,DstClientID=1000
+12:42.753004-2003,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Func=HoldConnection
+12:42.754000-995,SCALL,3,level=INFO,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,ClientID=993,Interface=2ebdaa8c-4a75-48f7-94bf-8206623aa9bb,IName=IClusterLogMngr,Method=0,CallID=1440349069,MName=writeLogEntryData,DstClientID=1000
+12:42.754003-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'fb478103-2b8d-4ed4-b2b6-d60fcc79f890.7'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK
+12:42.756000-999,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '283b4f1e-7932-4c86-90bf-1bb5d149248c.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);'
+12:42.766000-999,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'ca3d3400-bf67-47cc-a8df-35611e723579'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 27 : ПараметрыСеанса.ПараметрыКлиентаНаСервере = Новый ФиксированноеСоответствие(Новый Соответствие);'
+12:42.767002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '2006dd96-75cb-4e47-b1fd-62226b2a260b.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1280 : Если ОбщегоНазначенияКлиентСервер.СравнитьВерсии(СистемнаяИнформация.ВерсияПриложения, МинимальнаяВерсияПлатформы) < 0 Тогда'
+12:42.785002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '52b4b8f8-9f0a-4c71-95f6-670405f534d3.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1361 : ПроверитьВозможностьЗапуска();
+			ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1505 : Если ОбщегоНазначения.ИнформационнаяБазаФайловая(СтрокаСоединенияИнформационнойБазы()) Тогда'
+12:42.818002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '13e28005-27d1-488d-b37d-1035b4bc7bce.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)'
+12:42.845000-999,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Params WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'fe8acd6a-22c9-4b5a-aeae-232a1c8324cb.si'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)
+			ОбщийМодуль.ОбновлениеИнформационнойБазыСлужебный.Модуль : 243 : Запрос = Новый Запрос;'
+12:42.847002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: 'f1dfbd4f-37f4-455c-bc0b-cdf6de9d2eaa'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)
+			ОбщийМодуль.ОбновлениеИнформационнойБазыСлужебный.Модуль : 253 : ТаблицаЗначений = Запрос.Выполнить().Выгрузить();'
+12:42.849000-997,DBPOSTGRS,6,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql="SELECT
+T1._Fld573
+FROM _InfoRg571 T1
+WHERE (T1._Fld572 = 'СтандартныеПодсистемы'::mvarchar)",RowsAffected=0,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)
+			ОбщийМодуль.ОбновлениеИнформационнойБазыСлужебный.Модуль : 253 : ТаблицаЗначений = Запрос.Выполнить().Выгрузить();'
+12:42.849001-1000,SDBL,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Sdbl='SELECT
+Q_000_T_001.Fld573
+FROM
+InfoRg571 Q_000_T_001
+WHERE
+(Q_000_T_001.Fld572  =  "СтандартныеПодсистемы")
+
+',Rows=1,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)
+			ОбщийМодуль.ОбновлениеИнформационнойБазыСлужебный.Модуль : 253 : ТаблицаЗначений = Запрос.Выполнить().Выгрузить();'
+12:42.849002-1002,SDBL,3,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,Func=HoldConnection,Context='
+МодульСеанса : 5 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 30 : ПередЗапускомПрограммы();
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 1363 : Если Не ЗначениеЗаполнено(ПользователиИнформационнойБазы.ТекущийПользователь().Имя)
+			ОбщийМодуль.ОбновлениеИнформационнойБазыСлужебный.Модуль : 253 : ТаблицаЗначений = Запрос.Выполнить().Выгрузить();'
+12:42.849005-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '067f88f6-ccd2-491e-a466-94345a1f220f.0'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 10 : ОценкаПроизводительностиСлужебный.УстановкаПараметровСеанса("КомментарийЗамераВремени", Новый Массив);'
+12:42.853002-1,DBPOSTGRS,4,level=DEBUG,process=rphost,p:processName=cup,OSThread=6550,t:clientID=994,t:applicationName=BackgroundJob,t:computerName=1csrv,t:connectID=657,SessionID=1,Usr=DefUser,DBMS=DBPOSTGRS,DataBase=1csrv\cup,Trans=0,dbpid=6559,Sql='SELECT Creation,Modified,Attributes,DataSize,BinaryData FROM Config WHERE FileName = $1 ORDER BY PartNo',Prm="
+p_1: '0072986b-0463-4a39-9851-f9adeda99716'::mvarchar",RowsAffected=1,Result=PGRES_TUPLES_OK,Context='
+МодульСеанса : 10 : ОценкаПроизводительностиСлужебный.УстановкаПараметровСеанса("КомментарийЗамераВремени", Новый Массив);
+	ОбщийМодуль.ОценкаПроизводительностиСлужебный.Модуль : 120 : ПараметрыСеанса.КомментарийЗамераВремени = ПолучитьКомментарийЗамераВремени();'
